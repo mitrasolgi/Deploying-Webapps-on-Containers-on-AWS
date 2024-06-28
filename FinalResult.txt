@@ -1,0 +1,1124 @@
+[
+    {
+        "region": "us-east-1",
+        "instances": [
+            {
+                "instance_id": "i-039388742307847e9",
+                "instance_type": "t2.large",
+                "metrics": [
+                    {
+                        "name": "StatusCheckFailed_System",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_Instance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "MetadataNoToken",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 10.8,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 10.8,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUSurplusCreditBalance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUUtilization",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.08333333333333329,
+                            "Unit": "Percent"
+                        }
+                    },
+                    {
+                        "name": "NetworkOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 732.4,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskReadOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 939.4,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskReadBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "CPUCreditBalance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 74.764829,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUSurplusCreditsCharged",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUCreditUsage",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.007617,
+                            "Unit": "Count"
+                        }
+                    }
+                ]
+            },
+            {
+                "instance_id": "i-0a7451a597408d8fc",
+                "instance_type": "t2.large",
+                "metrics": [
+                    {
+                        "name": "StatusCheckFailed_System",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_Instance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUSurplusCreditsCharged",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskReadOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskReadBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 11.6,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "MetadataNoToken",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUCreditBalance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 77.727364,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUSurplusCreditBalance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUCreditUsage",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.010677,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 10.6,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 764.4,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "CPUUtilization",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.1166666666666665,
+                            "Unit": "Percent"
+                        }
+                    },
+                    {
+                        "name": "NetworkIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 923.8,
+                            "Unit": "Bytes"
+                        }
+                    }
+                ]
+            },
+            {
+                "instance_id": "i-095528c3309be0c70",
+                "instance_type": "t2.large",
+                "metrics": [
+                    {
+                        "name": "StatusCheckFailed",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_System",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_Instance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "MetadataNoToken",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskReadBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 11.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 10.8,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 735.6,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "CPUUtilization",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0997360377882748,
+                            "Unit": "Percent"
+                        }
+                    },
+                    {
+                        "name": "DiskReadOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 952.6,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "CPUSurplusCreditsCharged",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUSurplusCreditBalance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUCreditBalance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 74.760835,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUCreditUsage",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.008582,
+                            "Unit": "Count"
+                        }
+                    }
+                ]
+            },
+            {
+                "instance_id": "i-0df013b31dcf47883",
+                "instance_type": "t2.large",
+                "metrics": [
+                    {
+                        "name": "MetadataNoToken",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_Instance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_System",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskReadOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 1442.2,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskReadBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 14.4,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 2386.2,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "CPUUtilization",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.08339688105906692,
+                            "Unit": "Percent"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 13.4,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUCreditUsage",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.007664,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUCreditBalance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 77.755669,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUSurplusCreditsCharged",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUSurplusCreditBalance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    }
+                ]
+            },
+            {
+                "instance_id": "i-0483453b2f81da3c8",
+                "instance_type": "m4.large",
+                "metrics": [
+                    {
+                        "name": "MetadataNoToken",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_Instance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_System",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 38.6,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskReadOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 38.6,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 5795.4,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "CPUUtilization",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.1347457627118645,
+                            "Unit": "Percent"
+                        }
+                    },
+                    {
+                        "name": "DiskReadBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "NetworkOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 4326.0,
+                            "Unit": "Bytes"
+                        }
+                    }
+                ]
+            },
+            {
+                "instance_id": "i-0719322ef7999cbf8",
+                "instance_type": "m4.large",
+                "metrics": [
+                    {
+                        "name": "MetadataNoToken",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 33.6,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "CPUUtilization",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.06695841437436302,
+                            "Unit": "Percent"
+                        }
+                    },
+                    {
+                        "name": "NetworkOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 3129.2,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskReadBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "NetworkIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 3037.6,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskReadOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 33.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_System",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_Instance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    }
+                ]
+            },
+            {
+                "instance_id": "i-00216a0df5135b131",
+                "instance_type": "m4.large",
+                "metrics": [
+                    {
+                        "name": "MetadataNoToken",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 36.4,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskReadBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "CPUUtilization",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0666759284986568,
+                            "Unit": "Percent"
+                        }
+                    },
+                    {
+                        "name": "DiskReadOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 3904.4,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 39.2,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 4078.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_Instance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_System",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    }
+                ]
+            },
+            {
+                "instance_id": "i-0a5c994ac7504ebf1",
+                "instance_type": "m4.large",
+                "metrics": [
+                    {
+                        "name": "MetadataNoToken",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskReadBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskReadOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 4447.6,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 35.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 3829.6,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "CPUUtilization",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.10028248587570592,
+                            "Unit": "Percent"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 33.8,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_System",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_Instance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    }
+                ]
+            },
+            {
+                "instance_id": "i-002abce08c38fbe93",
+                "instance_type": "m4.large",
+                "metrics": [
+                    {
+                        "name": "StatusCheckFailed_System",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "StatusCheckFailed_Instance",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:13:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskReadBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskReadOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteBytes",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "DiskWriteOps",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 3191.6,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "CPUUtilization",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 0.08334259516532369,
+                            "Unit": "Percent"
+                        }
+                    },
+                    {
+                        "name": "NetworkIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 3027.8,
+                            "Unit": "Bytes"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsIn",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 31.8,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "NetworkPacketsOut",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:03:00",
+                            "Average": 32.8,
+                            "Unit": "Count"
+                        }
+                    },
+                    {
+                        "name": "MetadataNoToken",
+                        "value": {
+                            "Timestamp": "2023-10-09 01:08:00",
+                            "Average": 0.0,
+                            "Unit": "Count"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
